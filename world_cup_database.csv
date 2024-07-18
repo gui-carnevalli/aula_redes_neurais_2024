@@ -1,0 +1,522 @@
+player_name,pos,foot,birth_date,born,weight,height,passport,team_id,team,Chutes,Gols,Assistencias,Media_Passes_Certos,Media_Chutes_certos,Soma_Gol+Assist+medias,Target
+H. Kane,FWD,right,19930728,0,86,188,372,2413,England,11,7,0,0.8,0.636363636,8.436363636,Craque
+L. Modrić,MID,right,19850909,191,66,172,191,9598,Croatia,8,4,1,0.871428571,0.5,6.371428571,Craque
+A. Griezmann,FWD,left,19910321,250,71,175,250,4418,France,10,3,2,0.816666667,0.3,6.116666667,Craque
+D. Cheryshev,MID,left,19901226,643,74,179,724,14358,Russia,10,5,0,0.58,0.5,6.08,Craque
+R. Lukaku,FWD,left,19930513,56,94,190,180,5629,Belgium,13,4,1,0.766666667,0.307692308,6.074358974,Craque
+E. Hazard,FWD,right,19910107,56,74,173,56,5629,Belgium,14,3,2,0.833333333,0.214285714,6.047619048,Craque
+A. Golovin,MID,right,19960530,643,69,180,643,14358,Russia,2,2,2,0.775,1,5.775,Craque
+K. Mbappé,FWD,right,19981220,250,73,178,120,4418,France,7,4,0,0.75,0.571428571,5.321428571,Craque
+Cristiano Ronaldo,FWD,right,19850205,620,83,187,620,9905,Portugal,13,4,0,0.85,0.307692308,5.157692308,Craque
+Philippe Coutinho,FWD,right,19920612,76,68,171,76,6380,Brazil,22,2,2,0.9,0.090909091,4.990909091,Craque
+M. Mandžukić,FWD,right,19860114,191,84,187,191,9598,Croatia,12,3,1,0.716666667,0.25,4.966666667,Craque
+W. Khazri,MID,right,19910208,250,76,182,788,16276,Tunisia,9,2,2,0.733333333,0.222222222,4.955555556,Craque
+Y. Mina,DEF,right,19940923,170,75,195,170,12430,Colombia,3,3,0,0.933333333,1,4.933333333,Craque
+I. Perišić,MID,right,19890202,191,80,186,191,9598,Croatia,21,3,1,0.657142857,0.142857143,4.8,Craque
+D. Vida,DEF,right,19890429,191,73,184,191,9598,Croatia,3,2,1,0.883333333,0.666666667,4.55,Craque
+Diego Costa,FWD,right,19881007,76,85,188,724,1598,Spain,8,3,0,0.875,0.375,4.25,Craque
+A. Dzyuba,FWD,right,19880822,643,91,196,643,14358,Russia,7,3,0,0.8,0.428571429,4.228571429,Craque
+J. Cuadrado,MID,right,19880526,170,71,179,170,12430,Colombia,6,2,1,0.825,0.333333333,4.158333333,Craque
+T. Inui,MID,right,19880602,392,63,169,392,12913,Japan,8,2,1,0.85,0.25,4.1,Craque
+I. Rakitić,MID,right,19880310,756,78,184,191,9598,Croatia,13,3,0,0.814285714,0.230769231,4.045054945,Craque
+E. Cavani,FWD,right,19870214,858,71,184,380,15670,Uruguay,14,3,0,0.825,0.214285714,4.039285714,Craque
+T. Meunier,DEF,right,19910912,56,82,190,56,5629,Belgium,6,1,2,0.8,0.166666667,3.966666667,Bom
+Neymar,FWD,right,19920205,76,68,175,76,6380,Brazil,24,2,1,0.84,0.083333333,3.923333333,Bom
+L. Suárez,FWD,right,19870124,858,86,182,858,15670,Uruguay,9,2,1,0.7,0.222222222,3.922222222,Bom
+J. Quintero,MID,left,19930118,170,64,169,170,12430,Colombia,6,1,2,0.75,0.166666667,3.916666667,Bom
+K. De Bruyne,MID,right,19910628,56,68,181,56,5629,Belgium,9,1,2,0.8,0.111111111,3.911111111,Bom
+A. Granqvist,DEF,right,19850416,752,84,192,752,7047,Sweden,2,2,0,0.84,1,3.84,Bom
+G. Mercado,DEF,right,19870318,32,83,180,724,12274,Argentina,1,1,1,0.833333333,1,3.833333333,Bom
+Mário Fernandes,DEF,right,19900919,76,80,187,643,14358,Russia,1,1,1,0.82,1,3.82,Bom
+K. Trippier,DEF,right,19900919,0,72,178,0,2413,England,0,2,1,0.816666667,0,3.816666667,Bom
+S. Ignashevich,DEF,right,19790714,643,84,187,643,14358,Russia,3,2,0,0.84,0.666666667,3.506666667,Bom
+J. Stones,DEF,right,19940528,0,75,188,0,2413,England,4,2,0,0.957142857,0.5,3.457142857,Bom
+K. Honda,MID,left,19860613,392,76,182,392,12913,Japan,3,1,1,0.933333333,0.333333333,3.266666667,Bom
+A. Musa,FWD,right,19921014,566,66,171,566,16823,Nigeria,4,2,0,0.7,0.5,3.2,Bom
+Mohamed Salah,FWD,left,19920615,818,72,175,818,16129,Egypt,5,2,0,0.75,0.4,3.15,Bom
+N. Chadli,MID,right,19890802,56,80,187,504,5629,Belgium,3,1,1,0.783333333,0.333333333,3.116666667,Bom
+Iniesta,MID,right,19840511,724,68,171,724,1598,Spain,5,1,1,0.875,0.2,3.075,Bom
+Son Heung-Min,FWD,right,19920708,410,77,183,410,14855,Korea Republic,12,2,0,0.9,0.166666667,3.066666667,Bom
+O. Toivonen,FWD,right,19860703,752,78,192,752,7047,Sweden,3,1,1,0.72,0.333333333,3.053333333,Bom
+R. Falcao,FWD,right,19860210,170,72,177,170,12430,Colombia,8,2,0,0.8,0.25,3.05,Bom
+A. Kramarić,FWD,right,19910619,191,73,177,191,9598,Croatia,11,2,0,0.842857143,0.181818182,3.024675325,Bom
+H. Maguire,DEF,right,19930305,0,79,188,0,2413,England,10,1,1,0.914285714,0.1,3.014285714,Bom
+J. Lingard,MID,right,19921215,0,65,174,0,2413,England,15,1,1,0.933333333,0.066666667,3,Bom
+F. Baloy,DEF,right,19810224,591,90,184,484,17929,Panama,1,1,0,1,1,3,Bom
+J. Hernández,FWD,right,19880601,484,73,175,484,15473,Mexico,6,1,1,0.825,0.166666667,2.991666667,Bom
+D. Mertens,FWD,right,19870506,56,61,169,56,5629,Belgium,6,1,1,0.816666667,0.166666667,2.983333333,Bom
+J. Bednarek,DEF,right,19960412,616,77,189,616,13869,Poland,1,1,0,0.933333333,1,2.933333333,Bom
+V. Moses,MID,right,19901212,566,75,177,0,16823,Nigeria,6,1,1,0.766666667,0.166666667,2.933333333,Bom
+L. Messi,FWD,left,19870624,32,72,170,724,12274,Argentina,12,1,1,0.825,0.083333333,2.908333333,Bom
+H. Lozano,FWD,right,19950730,484,70,177,484,15473,Mexico,12,1,1,0.825,0.083333333,2.908333333,Bom
+X. Shaqiri,MID,left,19911010,0,72,169,756,6697,Switzerland,12,1,1,0.825,0.083333333,2.908333333,Bom
+S. Umtiti,DEF,left,19931114,120,75,182,250,4418,France,1,1,0,0.9,1,2.9,Bom
+J. Giménez,DEF,right,19950120,858,77,185,724,15670,Uruguay,1,1,0,0.9,1,2.9,Bom
+Nacho,DEF,right,19900118,724,76,180,724,1598,Spain,1,1,0,0.9,1,2.9,Bom
+K. Waston,DEF,right,19880101,188,97,196,188,16871,Costa Rica,1,1,0,0.9,1,2.9,Bom
+M. Jørgensen,DEF,right,19900423,208,79,191,208,7712,Denmark,1,1,0,0.9,1,2.9,Bom
+Salman Al Faraj,MID,left,19890801,682,63,179,682,16521,Saudi Arabia,1,1,0,0.866666667,1,2.866666667,Bom
+J. Rodríguez,MID,left,19910712,170,75,180,170,12430,Colombia,2,0,2,0.833333333,0,2.833333333,Bom
+Young-Gwon Kim,DEF,left,19900227,410,74,184,410,14855,Korea Republic,1,1,0,0.833333333,1,2.833333333,Bom
+M. Niang,FWD,right,19941219,250,75,184,686,19314,Senegal,8,1,1,0.7,0.125,2.825,Bom
+Y. Tielemans,MID,right,19970507,56,72,176,180,5629,Belgium,5,0,2,0.825,0,2.825,Bom
+Pepe,DEF,right,19830226,76,81,188,620,9905,Portugal,1,1,0,0.8,1,2.8,Bom
+A. Kolarov,DEF,left,19851110,688,83,187,688,17322,Serbia,1,1,0,0.8,1,2.8,Bom
+C. Sánchez,MID,right,19841202,858,66,170,32,15670,Uruguay,3,0,2,0.766666667,0,2.766666667,Bom
+C. Sánchez,MID,right,19860206,170,80,182,170,12430,Colombia,3,0,2,0.766666667,0,2.766666667,Bom
+A. Dzagoev,MID,right,19900617,643,75,179,643,14358,Russia,0,1,1,0.75,0,2.75,Bom
+D. Bronn,DEF,right,19950619,250,76,185,788,16276,Tunisia,1,1,0,0.7,1,2.7,Bom
+Y. En-Nesyri,FWD,left,19970601,504,73,189,504,16216,Morocco,1,1,0,0.7,1,2.7,Bom
+L. Muriel,FWD,right,19910416,170,79,178,170,12430,Colombia,1,1,0,0.65,1,2.65,Bom
+M. Wagué,DEF,right,19981004,686,70,177,686,19314,Senegal,1,1,0,0.533333333,1,2.533333333,Bom
+J. Vertonghen,DEF,left,19870424,56,88,189,56,5629,Belgium,2,1,0,0.9,0.5,2.4,Bom
+S. Kagawa,MID,right,19890317,392,68,175,392,12913,Japan,2,1,0,0.9,0.5,2.4,Bom
+D. Kuzyaev,MID,right,19930115,643,74,182,762,14358,Russia,2,1,0,0.9,0.5,2.4,Bom
+Y. Poulsen,FWD,right,19940615,208,78,193,834,7712,Denmark,2,1,0,0.8,0.5,2.3,Bom
+Y. Gazinskiy,MID,right,19890720,643,75,184,643,14358,Russia,2,1,0,0.8,0.5,2.3,Bom
+F. Smolov,FWD,right,19900209,643,80,187,643,14358,Russia,2,1,0,0.8,0.5,2.3,Bom
+Sergio Ramos,DEF,right,19860330,724,82,184,724,1598,Spain,3,1,0,0.95,0.333333333,2.283333333,Bom
+K. Boutaïb,FWD,right,19870424,250,82,189,504,16216,Morocco,3,1,0,0.9,0.333333333,2.233333333,Bom
+Renato Augusto,MID,right,19880208,76,86,186,76,6380,Brazil,3,1,0,0.9,0.333333333,2.233333333,Bom
+S. Mané,FWD,right,19920410,686,75,175,686,19314,Senegal,2,1,0,0.733333333,0.5,2.233333333,Bom
+R. Varane,DEF,right,19930425,250,81,191,474,4418,France,3,1,0,0.883333333,0.333333333,2.216666667,Bom
+G. Haraguchi,MID,right,19910509,392,68,177,392,12913,Japan,3,1,0,0.866666667,0.333333333,2.2,Bom
+L. Augustinsson,DEF,left,19940421,752,75,181,752,7047,Sweden,2,1,0,0.68,0.5,2.18,Bom
+G. Xhaka,MID,left,19920927,756,82,185,8,6697,Switzerland,4,1,0,0.925,0.25,2.175,Bom
+Thiago Silva,DEF,right,19840922,76,79,183,76,6380,Brazil,4,1,0,0.92,0.25,2.17,Bom
+M. Brozović,MID,right,19921116,191,68,181,191,9598,Croatia,4,1,0,0.916666667,0.25,2.166666667,Bom
+B. Pavard,DEF,right,19960328,250,76,186,250,4418,France,3,1,0,0.82,0.333333333,2.153333333,Bom
+M. Rashford,FWD,right,19971031,0,72,187,0,2413,England,4,1,0,0.9,0.25,2.15,Bom
+F. Sassi,MID,right,19920318,788,75,177,788,16276,Tunisia,4,1,0,0.9,0.25,2.15,Bom
+Piqué,DEF,right,19870202,724,85,194,724,1598,Spain,7,1,0,0.975,0.142857143,2.117857143,Bom
+Iago Aspas,FWD,left,19870801,724,67,176,724,1598,Spain,4,1,0,0.866666667,0.25,2.116666667,Bom
+Paulinho,MID,right,19880725,76,71,182,76,6380,Brazil,5,1,0,0.9,0.2,2.1,Bom
+M. Fellaini,MID,right,19871122,56,85,194,504,5629,Belgium,5,1,0,0.88,0.2,2.08,Bom
+K. Ansarifard,FWD,right,19900403,364,75,186,364,10840,Iran,2,1,0,0.566666667,0.5,2.066666667,Bom
+Salem Al Dawsari,MID,right,19910819,682,72,171,682,16521,Saudi Arabia,7,1,0,0.9,0.142857143,2.042857143,Bom
+P. Pogba,MID,right,19930315,250,84,191,324,4418,France,5,1,0,0.84,0.2,2.04,Bom
+M. Reus,FWD,right,19890531,276,71,180,276,3148,Germany,5,1,0,0.833333333,0.2,2.033333333,Bom
+Á. di María,MID,left,19880214,32,75,180,380,12274,Argentina,3,1,0,0.7,0.333333333,2.033333333,Bom
+D. Alli,MID,right,19960411,0,80,188,566,2413,England,4,1,0,0.78,0.25,2.03,Bom
+B. Džemaili,MID,right,19860412,807,73,179,756,6697,Switzerland,8,1,0,0.9,0.125,2.025,Bom
+Isco,MID,right,19920421,724,79,176,724,1598,Spain,8,1,0,0.9,0.125,2.025,Bom
+S. Zuber,MID,right,19910817,756,79,182,756,6697,Switzerland,4,1,0,0.766666667,0.25,2.016666667,Bom
+T. Kroos,MID,right,19900104,276,76,183,276,3148,Germany,13,1,0,0.933333333,0.076923077,2.01025641,Bom
+G. Sigurðsson,MID,right,19890908,352,77,186,352,7839,Iceland,5,1,0,0.8,0.2,2,Bom
+J. Drmic,FWD,right,19920808,756,81,183,191,6697,Switzerland,4,1,0,0.75,0.25,2,Bom
+M. Krohn-Dehli,MID,right,19830606,208,68,170,208,7712,Denmark,0,1,0,1,0,2,Bom
+A. Finnbogason,FWD,right,19890201,352,80,184,352,7839,Iceland,5,1,0,0.8,0.2,2,Bom
+M. Batshuayi,FWD,right,19931002,56,78,185,180,5629,Belgium,7,1,0,0.85,0.142857143,1.992857143,Mediano
+C. Vela,FWD,left,19890301,484,77,177,724,15473,Mexico,8,1,0,0.825,0.125,1.95,Mediano
+A. Januzaj,MID,left,19950205,56,75,182,0,5629,Belgium,4,1,0,0.7,0.25,1.95,Mediano
+Roberto Firmino,FWD,right,19911002,76,76,181,76,6380,Brazil,7,1,0,0.8,0.142857143,1.942857143,Mediano
+M. Kovačić,MID,right,19940506,40,77,178,191,9598,Croatia,4,0,1,0.92,0,1.92,Mediano
+Y. Ōsako,FWD,right,19900518,392,71,182,392,12913,Japan,7,1,0,0.775,0.142857143,1.917857143,Mediano
+T. Alderweireld,DEF,right,19890302,56,91,187,56,5629,Belgium,5,0,1,0.916666667,0,1.916666667,Mediano
+E. Forsberg,MID,right,19911023,752,78,179,752,7047,Sweden,12,1,0,0.82,0.083333333,1.903333333,Mediano
+Douglas Costa,MID,left,19900914,76,65,170,620,6380,Brazil,4,0,1,0.9,0,1.9,Mediano
+Abdullah Otayf,MID,right,19920803,682,66,177,682,16521,Saudi Arabia,2,0,1,0.9,0,1.9,Mediano
+D. Zakaria,MID,right,19961120,756,80,191,180,6697,Switzerland,0,0,1,0.9,0,1.9,Mediano
+É. Banega,MID,right,19880629,32,71,174,724,12274,Argentina,3,0,1,0.9,0,1.9,Mediano
+O. Haddadi,DEF,left,19920128,788,79,184,788,16276,Tunisia,0,0,1,0.9,0,1.9,Mediano
+Sergio Busquets,MID,right,19880716,724,76,189,724,1598,Spain,4,0,1,0.9,0,1.9,Mediano
+F. Ben Youssef,FWD,right,19910623,788,82,192,788,16276,Tunisia,7,1,0,0.733333333,0.142857143,1.876190476,Mediano
+Y. Nagatomo,DEF,right,19860912,392,68,170,392,12913,Japan,0,0,1,0.875,0,1.875,Mediano
+G. Shibasaki,MID,right,19920525,392,62,175,392,12913,Japan,0,0,1,0.875,0,1.875,Mediano
+T. Delaney,MID,left,19910903,208,71,182,840,7712,Denmark,3,0,1,0.866666667,0,1.866666667,Mediano
+Daniel Carvajal,DEF,right,19920111,724,73,173,724,1598,Spain,2,0,1,0.866666667,0,1.866666667,Mediano
+S. Kjær,DEF,right,19890326,208,82,189,208,7712,Denmark,0,1,0,0.866666667,0,1.866666667,Mediano
+R. Sterling,FWD,right,19941208,388,69,170,0,2413,England,9,0,1,0.85,0,1.85,Mediano
+Raphaël Guerreiro,DEF,left,19931222,250,71,170,620,9905,Portugal,4,0,1,0.85,0,1.85,Mediano
+F. Fajr,MID,right,19880801,250,72,178,504,16216,Morocco,0,0,1,0.85,0,1.85,Mediano
+R. Bentancur,MID,right,19970625,858,73,185,858,15670,Uruguay,3,0,1,0.84,0,1.84,Mediano
+C. Eriksen,MID,right,19920214,208,76,180,208,7712,Denmark,8,0,1,0.833333333,0,1.833333333,Mediano
+Ricardo Quaresma,FWD,right,19830926,620,67,175,620,9905,Portugal,5,1,0,0.633333333,0.2,1.833333333,Mediano
+R. Loftus-Cheek,MID,right,19960123,0,83,191,388,2413,England,3,0,1,0.825,0,1.825,Mediano
+Willian,MID,right,19880809,76,75,175,76,6380,Brazil,5,0,1,0.82,0,1.82,Mediano
+A. Young,DEF,right,19850709,0,65,175,388,2413,England,0,0,1,0.82,0,1.82,Mediano
+Š. Vrsaljko,DEF,right,19920110,191,76,181,191,9598,Croatia,5,0,1,0.816666667,0,1.816666667,Mediano
+Abdallah Said,MID,right,19850713,818,71,175,818,16129,Egypt,1,0,1,0.8,0,1.8,Mediano
+H. Nagguez,DEF,right,19921028,788,89,195,788,16276,Tunisia,0,0,1,0.8,0,1.8,Mediano
+J. Campbell,FWD,left,19920626,188,72,178,188,16871,Costa Rica,3,0,1,0.8,0,1.8,Mediano
+João Moutinho,MID,right,19860908,620,61,170,620,9905,Portugal,0,0,1,0.8,0,1.8,Mediano
+I. Kutepov,DEF,right,19930729,643,85,192,643,14358,Russia,0,0,1,0.78,0,1.78,Mediano
+D. Tadić,MID,left,19881120,688,76,181,688,17322,Serbia,3,0,1,0.766666667,0,1.766666667,Mediano
+Gabriel Jesus,FWD,right,19970403,76,67,175,76,6380,Brazil,8,0,1,0.76,0,1.76,Mediano
+V. Claesson,MID,right,19920102,752,79,183,752,7047,Sweden,6,0,1,0.76,0,1.76,Mediano
+A. Mitrović,FWD,right,19940916,688,82,189,688,17322,Serbia,14,1,0,0.633333333,0.071428571,1.704761905,Mediano
+O. Giroud,FWD,left,19860930,250,88,192,250,4418,France,14,0,1,0.7,0,1.7,Mediano
+K. Grosicki,MID,right,19880608,616,78,180,616,13869,Poland,4,0,1,0.7,0,1.7,Mediano
+C. Tolisso,MID,right,19940803,250,78,181,764,4418,France,2,0,1,0.7,0,1.7,Mediano
+R. Kurzawa,MID,left,19930129,616,73,182,616,13869,Poland,2,0,1,0.7,0,1.7,Mediano
+A. Rebić,FWD,right,19930921,191,78,185,191,9598,Croatia,15,1,0,0.583333333,0.066666667,1.65,Mediano
+Se-Jong Ju,MID,right,19901030,410,68,174,410,14855,Korea Republic,0,0,1,0.65,0,1.65,Mediano
+B. Embolo,FWD,right,19970214,120,86,184,756,6697,Switzerland,3,0,1,0.525,0,1.525,Mediano
+Y. Muto,FWD,right,19920715,392,72,179,392,12913,Japan,1,0,0,1,0,1,Mediano
+N. Süle,DEF,right,19950903,276,97,195,276,3148,Germany,0,0,0,1,0,1,Mediano
+B. Keita,FWD,right,19950308,724,80,181,686,19314,Senegal,1,0,0,1,0,1,Mediano
+P. Jansson,DEF,right,19910213,752,89,196,752,7047,Sweden,1,0,0,1,0,1,Mediano
+M. Plattenhardt,DEF,left,19920126,276,76,181,276,3148,Germany,1,0,0,1,0,1,Mediano
+G. Cahill,DEF,right,19851219,0,86,193,0,2413,England,0,0,0,1,0,1,Mediano
+T. Makino,DEF,right,19870511,392,77,182,392,12913,Japan,1,0,0,1,0,1,Mediano
+A. Rüdiger,DEF,right,19930303,276,85,191,694,3148,Germany,0,0,0,1,0,1,Mediano
+M. Veljkovic,DEF,right,19950926,756,77,184,688,17322,Serbia,0,0,0,1,0,1,Mediano
+J. dos Santos,MID,right,19900426,484,68,172,724,15473,Mexico,0,0,0,1,0,1,Mediano
+S. Coates,DEF,right,19901007,858,92,196,724,15670,Uruguay,0,0,0,1,0,1,Mediano
+A. Skúlason,DEF,left,19870514,352,64,170,352,7839,Iceland,0,0,0,1,0,1,Mediano
+F. Bradarić,MID,right,19920111,191,77,185,191,9598,Croatia,0,0,0,1,0,1,Mediano
+I. Díaz,FWD,right,19970512,591,77,182,591,17929,Panama,0,0,0,1,0,1,Mediano
+A. Khalil,MID,right,19941221,788,80,187,788,16276,Tunisia,0,0,0,1,0,1,Mediano
+T. Ebuehi,DEF,right,19951216,528,72,187,566,16823,Nigeria,0,0,0,1,0,1,Mediano
+V. Fischer,FWD,right,19940609,208,71,180,208,7712,Denmark,1,0,0,1,0,1,Mediano
+Yo-Han Go,MID,right,19880310,410,65,170,410,14855,Korea Republic,0,0,0,1,0,1,Mediano
+M. Ben Amor,MID,right,19920503,788,75,184,788,16276,Tunisia,0,0,0,1,0,1,Mediano
+S. Rudy,MID,right,19900228,276,74,180,276,3148,Germany,1,0,0,1,0,1,Mediano
+R. Ruidíaz,FWD,right,19900725,604,65,167,191,15594,Peru,0,0,0,1,0,1,Mediano
+C. Zapata,DEF,right,19860930,170,82,187,170,12430,Colombia,0,0,0,1,0,1,Mediano
+A. Prijović,FWD,right,19900421,756,88,191,688,17322,Serbia,0,0,0,1,0,1,Mediano
+Marquinhos,DEF,right,19940514,76,75,183,620,6380,Brazil,0,0,0,1,0,1,Mediano
+B. Srarfi,MID,left,19970625,788,71,176,788,16276,Tunisia,0,0,0,1,0,1,Mediano
+F. Thauvin,FWD,left,19930126,250,70,179,250,4418,France,0,0,0,1,0,1,Mediano
+I. Smith,DEF,right,19980306,188,68,177,188,16871,Costa Rica,0,0,0,1,0,1,Mediano
+S. Amrabat,MID,right,19960821,528,70,182,504,16216,Morocco,0,0,0,1,0,1,Mediano
+Mohammad Al Sahlawi,FWD,right,19870110,682,75,179,682,16521,Saudi Arabia,2,0,0,1,0,1,Mediano
+M. Borja,FWD,right,19930126,170,82,183,170,12430,Colombia,0,0,0,1,0,1,Mediano
+S. Morsy,MID,right,19910910,0,76,175,818,16129,Egypt,0,0,0,1,0,1,Mediano
+M. Dembélé,MID,left,19870716,56,88,185,466,5629,Belgium,0,0,0,0.975,0,0.975,Mediano
+A. Witsel,MID,right,19890112,56,81,188,474,5629,Belgium,6,0,0,0.966666667,0,0.966666667,Mediano
+D. Boyata,DEF,right,19901128,56,84,188,180,5629,Belgium,0,0,0,0.966666667,0,0.966666667,Mediano
+G. Shōji,DEF,right,19921211,392,74,182,392,12913,Japan,1,0,0,0.966666667,0,0.966666667,Mediano
+Woo-Young Jung,MID,right,19891214,410,78,186,410,14855,Korea Republic,2,0,0,0.966666667,0,0.966666667,Mediano
+G. Svensson,MID,right,19870207,752,83,184,752,7047,Sweden,0,0,0,0.966666667,0,0.966666667,Mediano
+Fernandinho,MID,right,19850504,76,67,179,76,6380,Brazil,3,0,0,0.96,0,0.96,Mediano
+Hussain Al Mogahwi,MID,right,19880324,682,76,174,682,16521,Saudi Arabia,5,0,0,0.95,0,0.95,Mediano
+Thiago Alcântara,MID,right,19910411,724,70,174,76,1598,Spain,2,0,0,0.95,0,0.95,Mediano
+André Silva,FWD,right,19951106,620,70,182,620,9905,Portugal,1,0,0,0.95,0,0.95,Mediano
+P. Aquino,MID,left,19950413,604,72,175,604,15594,Peru,1,0,0,0.95,0,0.95,Mediano
+A. Rukavina,DEF,right,19840126,688,71,176,688,17322,Serbia,0,0,0,0.95,0,0.95,Mediano
+Yahya Al Shehri,MID,left,19900626,682,60,164,682,16521,Saudi Arabia,0,0,0,0.95,0,0.95,Mediano
+V. Kompany,DEF,right,19860410,56,85,193,180,5629,Belgium,4,0,0,0.94,0,0.94,Mediano
+João Miranda,DEF,right,19840907,76,76,186,76,6380,Brazil,1,0,0,0.94,0,0.94,Mediano
+W. Ndidi,MID,right,19961216,566,80,187,566,16823,Nigeria,3,0,0,0.933333333,0,0.933333333,Mediano
+G. González,DEF,right,19880208,188,77,186,188,16871,Costa Rica,2,0,0,0.933333333,0,0.933333333,Mediano
+A. Christensen,DEF,right,19960410,208,78,188,208,7712,Denmark,0,0,0,0.933333333,0,0.933333333,Mediano
+G. Gómez,MID,right,19840529,591,76,189,591,17929,Panama,1,0,0,0.933333333,0,0.933333333,Mediano
+T. Vermaelen,DEF,left,19851114,56,80,183,56,5629,Belgium,0,0,0,0.933333333,0,0.933333333,Mediano
+H. Yamaguchi,MID,right,19900610,392,72,173,392,12913,Japan,0,0,0,0.933333333,0,0.933333333,Mediano
+E. Pérez,MID,right,19860222,32,71,177,380,12274,Argentina,1,0,0,0.933333333,0,0.933333333,Mediano
+K. El Ahmadi,MID,right,19850127,528,78,179,504,16216,Morocco,1,0,0,0.933333333,0,0.933333333,Mediano
+O. Etebo,FWD,right,19951109,566,70,176,566,16823,Nigeria,6,0,0,0.933333333,0,0.933333333,Mediano
+Mohamed Elneny,MID,right,19920711,818,70,180,818,16129,Egypt,3,0,0,0.933333333,0,0.933333333,Mediano
+A. Iwobi,MID,right,19960503,566,75,180,0,16823,Nigeria,4,0,0,0.933333333,0,0.933333333,Mediano
+Koke,MID,right,19920108,724,73,177,724,1598,Spain,1,0,0,0.933333333,0,0.933333333,Mediano
+N. Otamendi,DEF,right,19880212,32,81,183,32,12274,Argentina,4,0,0,0.925,0,0.925,Mediano
+J. Mascherano,DEF,right,19840608,32,73,174,380,12274,Argentina,1,0,0,0.925,0,0.925,Mediano
+V. Behrami,MID,right,19850419,0,78,185,756,6697,Switzerland,1,0,0,0.925,0,0.925,Mediano
+A. Guardado,MID,left,19860928,484,67,169,724,15473,Mexico,7,0,0,0.925,0,0.925,Mediano
+K. Walker,DEF,right,19900528,0,83,183,0,2413,England,0,0,0,0.92,0,0.92,Mediano
+D. Godín,DEF,right,19860216,858,79,187,724,15670,Uruguay,3,0,0,0.9,0,0.9,Mediano
+M. Yoshida,DEF,right,19880824,392,78,189,392,12913,Japan,2,0,0,0.9,0,0.9,Mediano
+Sung-Yeung Ki,MID,right,19890124,410,75,186,410,14855,Korea Republic,3,0,0,0.9,0,0.9,Mediano
+R. Lewandowski,FWD,right,19880821,616,79,185,616,13869,Poland,7,0,0,0.9,0,0.9,Mediano
+M. Hummels,DEF,right,19881216,276,92,191,276,3148,Germany,6,0,0,0.9,0,0.9,Mediano
+M. Akanji,DEF,right,19950719,756,85,187,566,6697,Switzerland,2,0,0,0.9,0,0.9,Mediano
+R. Saïss,MID,left,19900326,250,76,190,504,16216,Morocco,1,0,0,0.9,0,0.9,Mediano
+C. Salcedo,DEF,right,19930929,484,77,188,484,15473,Mexico,3,0,0,0.9,0,0.9,Mediano
+R. Bedoui,DEF,right,19900119,788,81,190,788,16276,Tunisia,1,0,0,0.9,0,0.9,Mediano
+A. Badri,FWD,right,19900918,250,70,177,788,16276,Tunisia,2,0,0,0.9,0,0.9,Mediano
+Osama Hawsawi,DEF,right,19840331,784,83,188,682,16521,Saudi Arabia,0,0,0,0.9,0,0.9,Mediano
+B. Matuidi,MID,left,19870409,250,70,175,24,4418,France,5,0,0,0.9,0,0.9,Mediano
+O. Ighalo,FWD,right,19890616,566,82,181,380,16823,Nigeria,4,0,0,0.9,0,0.9,Mediano
+J. Draxler,MID,right,19930920,276,72,187,276,3148,Germany,6,0,0,0.9,0,0.9,Mediano
+İ. Gündoğan,MID,right,19901024,276,80,180,276,3148,Germany,1,0,0,0.9,0,0.9,Mediano
+A. Uribe,MID,right,19910321,170,71,182,170,12430,Colombia,2,0,0,0.9,0,0.9,Mediano
+Ali Gabr,DEF,right,19890110,818,84,193,818,16129,Egypt,1,0,0,0.9,0,0.9,Mediano
+D. Tošić,DEF,left,19850119,688,85,185,688,17322,Serbia,0,0,0,0.9,0,0.9,Mediano
+T. Hazard,FWD,right,19930329,56,69,174,56,5629,Belgium,3,0,0,0.9,0,0.9,Mediano
+Hyun-Soo Jang,DEF,right,19910928,410,77,187,410,14855,Korea Republic,0,0,0,0.9,0,0.9,Mediano
+L. Advíncula,DEF,right,19900302,604,80,178,604,15594,Peru,3,0,0,0.9,0,0.9,Mediano
+F. Delph,MID,left,19891121,0,60,174,328,2413,England,3,0,0,0.9,0,0.9,Mediano
+T. Cionek,DEF,right,19860421,76,80,183,616,13869,Poland,0,0,0,0.9,0,0.9,Mediano
+O. Murillo,DEF,left,19880418,170,82,184,170,12430,Colombia,1,0,0,0.9,0,0.9,Mediano
+D. Ćaleta-Car,DEF,right,19960917,191,89,192,191,9598,Croatia,0,0,0,0.9,0,0.9,Mediano
+P. Kimpembe,DEF,left,19950813,250,67,183,180,4418,France,0,0,0,0.9,0,0.9,Mediano
+C. Kouyaté,MID,right,19891221,686,78,193,56,19314,Senegal,0,0,0,0.9,0,0.9,Mediano
+E. Skhiri,MID,right,19950510,250,69,185,788,16276,Tunisia,0,0,0,0.9,0,0.9,Mediano
+P. Jones,DEF,right,19920221,0,71,185,0,2413,England,0,0,0,0.9,0,0.9,Mediano
+J. Hector,DEF,left,19900527,276,75,185,276,3148,Germany,2,0,0,0.9,0,0.9,Mediano
+J. Boateng,DEF,right,19880903,276,90,192,276,3148,Germany,3,0,0,0.9,0,0.9,Mediano
+N. Dirar,MID,right,19860225,504,79,187,56,16216,Morocco,1,0,0,0.9,0,0.9,Mediano
+W. Troost-Ekong,DEF,right,19930901,528,82,191,566,16823,Nigeria,2,0,0,0.9,0,0.9,Mediano
+J. Brandt,MID,right,19960502,276,82,183,276,3148,Germany,4,0,0,0.9,0,0.9,Mediano
+J. Djourou,DEF,right,19870118,384,87,191,756,6697,Switzerland,0,0,0,0.9,0,0.9,Mediano
+J. Acosta,DEF,right,19830721,188,77,178,188,16871,Costa Rica,0,0,0,0.9,0,0.9,Mediano
+Young-Sun Yun,DEF,right,19881004,410,78,185,410,14855,Korea Republic,0,0,0,0.9,0,0.9,Mediano
+L. Goretzka,MID,right,19950206,276,79,189,276,3148,Germany,1,0,0,0.9,0,0.9,Mediano
+G. Sakai,DEF,right,19910314,840,74,176,392,12913,Japan,1,0,0,0.9,0,0.9,Mediano
+K. Glik,DEF,right,19880203,616,80,190,276,13869,Poland,1,0,0,0.9,0,0.9,Mediano
+T. Lemar,MID,left,19951112,312,58,170,250,4418,France,1,0,0,0.9,0,0.9,Mediano
+N. Matić,MID,left,19880801,688,84,194,703,17322,Serbia,3,0,0,0.9,0,0.9,Mediano
+L. Biglia,MID,right,19860130,32,74,178,380,12274,Argentina,2,0,0,0.9,0,0.9,Mediano
+G. Varela,DEF,right,19930324,858,70,174,724,15670,Uruguay,0,0,0,0.9,0,0.9,Mediano
+A. Shehu,DEF,right,19930312,566,72,181,566,16823,Nigeria,0,0,0,0.9,0,0.9,Mediano
+M. Hosseini,DEF,right,19960620,364,76,183,364,10840,Iran,0,0,0,0.9,0,0.9,Mediano
+Danilo,DEF,right,19910715,76,78,184,76,6380,Brazil,0,0,0,0.9,0,0.9,Mediano
+Motaz Hawsawi,DEF,right,19920217,682,79,180,682,16521,Saudi Arabia,0,0,0,0.9,0,0.9,Mediano
+R. Cheshmi,DEF,right,19930724,364,83,192,364,10840,Iran,1,0,0,0.9,0,0.9,Mediano
+M. Özil,MID,left,19881015,276,76,180,276,3148,Germany,2,0,0,0.9,0,0.9,Mediano
+A. Santamaría,DEF,right,19920110,604,76,183,604,15594,Peru,0,0,0,0.9,0,0.9,Mediano
+L. Dendoncker,MID,right,19950415,56,76,188,56,5629,Belgium,0,0,0,0.9,0,0.9,Mediano
+Gelson Martins,FWD,right,19950511,132,65,173,620,9905,Portugal,0,0,0,0.9,0,0.9,Mediano
+S. Khaoui,MID,left,19950427,250,68,182,788,16276,Tunisia,1,0,0,0.9,0,0.9,Mediano
+A. Cooper,MID,right,19871126,591,72,173,591,17929,Panama,1,0,0,0.9,0,0.9,Mediano
+L. Gassama,DEF,right,19891020,250,74,181,686,19314,Senegal,0,0,0,0.9,0,0.9,Mediano
+S. Peszko,MID,right,19850219,616,69,173,616,13869,Poland,0,0,0,0.9,0,0.9,Mediano
+A. Godoy,MID,left,19900210,591,75,182,591,17929,Panama,2,0,0,0.9,0,0.9,Mediano
+L. Milivojević,MID,right,19910407,688,80,186,688,17322,Serbia,0,0,0,0.9,0,0.9,Mediano
+E. Hallfreðsson,MID,left,19840629,352,83,185,352,7839,Iceland,1,0,0,0.9,0,0.9,Mediano
+Jordi Alba,DEF,left,19890321,724,68,170,724,1598,Spain,2,0,0,0.9,0,0.9,Mediano
+O. Ebrahimi,MID,right,19870916,364,72,177,364,10840,Iran,0,0,0,0.9,0,0.9,Mediano
+David Silva,MID,left,19860108,724,67,173,724,1598,Spain,7,0,0,0.9,0,0.9,Mediano
+Taisir Al Jassim,MID,right,19840725,682,69,169,682,16521,Saudi Arabia,0,0,0,0.9,0,0.9,Mediano
+Y. Yotún,MID,left,19900407,604,68,173,604,15594,Peru,2,0,0,0.9,0,0.9,Mediano
+M. Fabián,MID,right,19890721,484,65,170,484,15473,Mexico,1,0,0,0.9,0,0.9,Mediano
+T. Alexander-Arnold,DEF,right,19981007,0,69,175,0,2413,England,0,0,0,0.9,0,0.9,Mediano
+N. Kanté,MID,right,19910329,250,68,168,466,4418,France,1,0,0,0.9,0,0.9,Mediano
+Casemiro,MID,right,19920223,76,84,185,76,6380,Brazil,4,0,0,0.875,0,0.875,Mediano
+V. Ćorluka,DEF,right,19860205,70,84,192,191,9598,Croatia,0,0,0,0.875,0,0.875,Mediano
+William Carvalho,MID,right,19920407,24,83,187,620,9905,Portugal,1,0,0,0.875,0,0.875,Mediano
+F. Kudryashov,DEF,left,19870405,643,81,181,643,14358,Russia,0,0,0,0.875,0,0.875,Mediano
+H. Herrera,MID,right,19900419,484,74,180,484,15473,Mexico,4,0,0,0.875,0,0.875,Mediano
+João Mário,MID,right,19930119,620,67,173,24,9905,Portugal,1,0,0,0.875,0,0.875,Mediano
+J. Gallardo,MID,left,19940815,484,76,176,484,15473,Mexico,1,0,0,0.875,0,0.875,Mediano
+M. Hasebe,MID,right,19840118,392,72,180,392,12913,Japan,1,0,0,0.875,0,0.875,Mediano
+N. Milenković,DEF,right,19971012,688,91,195,688,17322,Serbia,0,0,0,0.866666667,0,0.866666667,Mediano
+C. Borges,MID,right,19880827,188,76,182,76,16871,Costa Rica,5,0,0,0.866666667,0,0.866666667,Mediano
+H. Moreno,DEF,left,19880117,484,80,183,484,15473,Mexico,1,0,0,0.866666667,0,0.866666667,Mediano
+Yasir Al Shahrani,DEF,right,19920525,682,63,170,682,16521,Saudi Arabia,5,0,0,0.866666667,0,0.866666667,Mediano
+G. Higuaín,FWD,right,19871210,250,82,184,32,12274,Argentina,3,0,0,0.866666667,0,0.866666667,Mediano
+Y. Meriah,DEF,right,19930702,788,74,188,788,16276,Tunisia,0,0,0,0.866666667,0,0.866666667,Mediano
+S. Sané,DEF,right,19900825,250,85,196,686,19314,Senegal,1,0,0,0.866666667,0,0.866666667,Mediano
+Ahmed Fathy,DEF,right,19841110,818,73,175,818,16129,Egypt,1,0,0,0.866666667,0,0.866666667,Mediano
+M. Braithwaite,FWD,right,19910605,208,77,177,328,7712,Denmark,3,0,0,0.866666667,0,0.866666667,Mediano
+K. Koulibaly,DEF,right,19910620,250,89,195,686,19314,Senegal,0,0,0,0.866666667,0,0.866666667,Mediano
+I. Gueye,MID,right,19890926,686,72,174,686,19314,Senegal,2,0,0,0.866666667,0,0.866666667,Mediano
+F. Schär,DEF,right,19911220,756,84,188,756,6697,Switzerland,1,0,0,0.866666667,0,0.866666667,Mediano
+J. Obi Mikel,MID,right,19870422,566,83,188,566,16823,Nigeria,0,0,0,0.866666667,0,0.866666667,Mediano
+B. Sigurðarson,FWD,right,19910226,352,81,186,352,7839,Iceland,0,0,0,0.866666667,0,0.866666667,Mediano
+C. Bacca,FWD,right,19860908,170,77,181,170,12430,Colombia,2,0,0,0.866666667,0,0.866666667,Mediano
+Mohammed Al Burayk,DEF,right,19920915,682,61,173,682,16521,Saudi Arabia,1,0,0,0.866666667,0,0.866666667,Mediano
+M. Boussoufa,MID,right,19840815,528,61,168,504,16216,Morocco,1,0,0,0.866666667,0,0.866666667,Mediano
+J. Kimmich,DEF,right,19950208,276,70,176,276,3148,Germany,3,0,0,0.866666667,0,0.866666667,Mediano
+N. Nández,MID,right,19951228,858,69,171,380,15670,Uruguay,2,0,0,0.86,0,0.86,Mediano
+M. Vecino,MID,right,19910824,858,82,187,380,15670,Uruguay,3,0,0,0.86,0,0.86,Mediano
+L. Torreira,MID,right,19960211,858,64,168,724,15670,Uruguay,2,0,0,0.86,0,0.86,Mediano
+Y. Carrasco,FWD,right,19930904,56,71,180,724,5629,Belgium,6,0,0,0.85,0,0.85,Mediano
+M. Benatia,DEF,right,19870417,250,92,190,504,16216,Morocco,5,0,0,0.85,0,0.85,Mediano
+S. Ingason,DEF,right,19930805,352,75,188,352,7839,Iceland,3,0,0,0.85,0,0.85,Mediano
+M. Rybus,DEF,left,19890819,616,75,173,616,13869,Poland,1,0,0,0.85,0,0.85,Mediano
+S. Khedira,MID,right,19870404,276,85,189,788,3148,Germany,3,0,0,0.85,0,0.85,Mediano
+K. Árnason,DEF,right,19821013,752,87,190,352,7839,Iceland,0,0,0,0.85,0,0.85,Mediano
+M. Meza,MID,right,19921215,32,77,180,32,12274,Argentina,3,0,0,0.85,0,0.85,Mediano
+J. Farfán,FWD,right,19841026,604,84,178,604,15594,Peru,4,0,0,0.85,0,0.85,Mediano
+L. Schöne,MID,right,19860527,208,78,177,208,7712,Denmark,4,0,0,0.85,0,0.85,Mediano
+C. Ramos,DEF,right,19881104,604,74,185,604,15594,Peru,1,0,0,0.85,0,0.85,Mediano
+J. Stryger Larsen,DEF,right,19910221,208,81,180,208,7712,Denmark,1,0,0,0.85,0,0.85,Mediano
+Ó. Duarte,DEF,right,19890603,558,81,186,188,16871,Costa Rica,2,0,0,0.85,0,0.85,Mediano
+A. Carrillo,MID,right,19910614,604,78,181,604,15594,Peru,2,0,0,0.85,0,0.85,Mediano
+É. Flores,MID,left,19940514,604,70,170,604,15594,Peru,4,0,0,0.85,0,0.85,Mediano
+A. N'Diaye,MID,right,19900306,250,82,187,686,19314,Senegal,0,0,0,0.85,0,0.85,Mediano
+E. Davis,DEF,left,19910331,591,78,179,591,17929,Panama,0,0,0,0.85,0,0.85,Mediano
+E. Álvarez,DEF,right,19971024,484,73,185,484,15473,Mexico,0,0,0,0.85,0,0.85,Mediano
+Filipe Luis,DEF,left,19850809,76,73,182,380,6380,Brazil,1,0,0,0.85,0,0.85,Mediano
+J. Góralski,MID,right,19920921,616,66,172,616,13869,Poland,1,0,0,0.85,0,0.85,Mediano
+G. De Arrascaeta,MID,right,19940601,858,70,172,380,15670,Uruguay,0,0,0,0.85,0,0.85,Mediano
+N. Tagliafico,DEF,left,19920831,32,65,169,380,12274,Argentina,2,0,0,0.85,0,0.85,Mediano
+Ja-Cheol Koo,MID,right,19890227,410,79,183,410,14855,Korea Republic,1,0,0,0.85,0,0.85,Mediano
+C. Cueva,MID,right,19911123,604,61,169,604,15594,Peru,1,0,0,0.85,0,0.85,Mediano
+L. Tejada,FWD,right,19820328,591,80,185,591,17929,Panama,0,0,0,0.85,0,0.85,Mediano
+G. Torres,FWD,right,19881031,591,78,179,591,17929,Panama,1,0,0,0.85,0,0.85,Mediano
+A. El Kaabi,FWD,left,19930625,504,79,182,504,16216,Morocco,1,0,0,0.85,0,0.85,Mediano
+R. Gíslason,FWD,right,19880225,352,80,184,352,7839,Iceland,1,0,0,0.85,0,0.85,Mediano
+Lucas Vázquez,FWD,right,19910701,724,70,173,724,1598,Spain,0,0,0,0.85,0,0.85,Mediano
+Fágner,DEF,right,19890611,76,67,168,76,6380,Brazil,0,0,0,0.85,0,0.85,Mediano
+E. Krafth,DEF,right,19940802,752,79,181,752,7047,Sweden,0,0,0,0.85,0,0.85,Mediano
+D. Lovren,DEF,right,19890705,191,84,188,191,9598,Croatia,3,0,0,0.842857143,0,0.842857143,Mediano
+J. Henderson,MID,right,19900617,0,67,182,0,2413,England,4,0,0,0.84,0,0.84,Mediano
+N. Fekir,MID,left,19930718,250,72,173,12,4418,France,3,0,0,0.84,0,0.84,Mediano
+I. Sarr,MID,right,19980225,686,68,178,686,19314,Senegal,3,0,0,0.833333333,0,0.833333333,Mediano
+Rodrigo,FWD,left,19910306,76,77,182,724,1598,Spain,4,0,0,0.833333333,0,0.833333333,Mediano
+R. Torres,DEF,right,19860320,591,96,187,591,17929,Panama,4,0,0,0.833333333,0,0.833333333,Mediano
+W. Barrios,MID,right,19931016,170,74,178,170,12430,Colombia,0,0,0,0.833333333,0,0.833333333,Mediano
+M. Pouraliganji,DEF,right,19920419,364,80,185,364,10840,Iran,0,0,0,0.833333333,0,0.833333333,Mediano
+Jae-Sung Lee,MID,left,19920810,410,70,180,410,14855,Korea Republic,5,0,0,0.833333333,0,0.833333333,Mediano
+H. Dalsgaard,DEF,right,19890727,208,79,192,208,7712,Denmark,0,0,0,0.833333333,0,0.833333333,Mediano
+Tarek Hamed,MID,right,19881024,818,74,179,818,16129,Egypt,1,0,0,0.833333333,0,0.833333333,Mediano
+F. Escobar,DEF,right,19950109,591,75,182,591,17929,Panama,0,0,0,0.833333333,0,0.833333333,Mediano
+Marco Asensio,MID,left,19960121,724,76,182,528,1598,Spain,2,0,0,0.833333333,0,0.833333333,Mediano
+B. Sævarsson,DEF,right,19841111,352,74,187,352,7839,Iceland,0,0,0,0.833333333,0,0.833333333,Mediano
+B. Bereszyński,DEF,right,19920712,616,77,183,616,13869,Poland,0,0,0,0.833333333,0,0.833333333,Mediano
+B. Ruiz,MID,left,19850818,188,82,188,188,16871,Costa Rica,1,0,0,0.833333333,0,0.833333333,Mediano
+Mahmoud Kahraba,MID,right,19940413,818,76,182,818,16129,Egypt,0,0,0,0.833333333,0,0.833333333,Mediano
+A. Hakimi,DEF,right,19981104,724,68,179,504,16216,Morocco,1,0,0,0.833333333,0,0.833333333,Mediano
+Mohamed Abdel-Shafi,DEF,left,19850701,818,75,179,818,16129,Egypt,0,0,0,0.833333333,0,0.833333333,Mediano
+A. Ljajić,FWD,right,19910929,688,74,182,688,17322,Serbia,1,0,0,0.833333333,0,0.833333333,Mediano
+D. Guzmán,MID,right,19900218,188,79,178,188,16871,Costa Rica,1,0,0,0.833333333,0,0.833333333,Mediano
+S. Arias,DEF,right,19920113,170,72,175,170,12430,Colombia,1,0,0,0.825,0,0.825,Mediano
+José Fonte,DEF,right,19831222,620,75,191,620,9905,Portugal,2,0,0,0.825,0,0.825,Mediano
+Bernardo Silva,MID,left,19940810,620,64,173,250,9905,Portugal,2,0,0,0.825,0,0.825,Mediano
+D. Sánchez,DEF,right,19960612,170,79,187,170,12430,Colombia,1,0,0,0.825,0,0.825,Mediano
+J. Lerma,MID,right,19941025,170,70,179,170,12430,Colombia,1,0,0,0.825,0,0.825,Mediano
+H. Sakai,DEF,right,19900412,392,70,183,392,12913,Japan,2,0,0,0.825,0,0.825,Mediano
+M. Layún,DEF,right,19880625,484,68,179,724,15473,Mexico,8,0,0,0.825,0,0.825,Mediano
+A. Ekdal,MID,right,19890728,752,75,186,752,7047,Sweden,3,0,0,0.82,0,0.82,Mediano
+A. Samedov,MID,right,19840719,643,75,177,643,14358,Russia,2,0,0,0.82,0,0.82,Mediano
+L. Balogun,DEF,right,19880628,276,81,190,566,16823,Nigeria,3,0,0,0.8,0,0.8,Mediano
+Ahmed Hegazy,DEF,right,19910125,818,83,193,818,16129,Egypt,0,0,0,0.8,0,0.8,Mediano
+Hattan Bahbir,MID,right,19920716,682,66,170,682,16521,Saudi Arabia,6,0,0,0.8,0,0.8,Mediano
+Y. Bárcenas,MID,right,19931023,591,75,175,591,17929,Panama,4,0,0,0.8,0,0.8,Mediano
+Trézéguet,MID,right,19941001,818,71,179,818,16129,Egypt,8,0,0,0.8,0,0.8,Mediano
+J. Rodriguez,MID,left,19980619,591,70,178,591,17929,Panama,3,0,0,0.8,0,0.8,Mediano
+L. Hernández,DEF,left,19960214,250,76,184,724,4418,France,2,0,0,0.8,0,0.8,Mediano
+Ramadan Sobhi,MID,right,19970123,818,72,183,818,16129,Egypt,0,0,0,0.8,0,0.8,Mediano
+M. Taremi,FWD,right,19920718,364,80,187,364,10840,Iran,3,0,0,0.8,0,0.8,Mediano
+S. Milinković-Savić,MID,right,19950227,724,80,192,688,17322,Serbia,5,0,0,0.8,0,0.8,Mediano
+B. Idowu,DEF,right,19920518,643,77,178,566,16823,Nigeria,0,0,0,0.8,0,0.8,Mediano
+P. Zieliński,MID,right,19940520,616,75,180,616,13869,Poland,3,0,0,0.8,0,0.8,Mediano
+H. Ziyech,MID,left,19930319,528,65,180,504,16216,Morocco,7,0,0,0.8,0,0.8,Mediano
+P. Guerrero,FWD,right,19840101,604,82,185,604,15594,Peru,3,0,0,0.8,0,0.8,Mediano
+J. Guðmunds­son,MID,left,19901027,352,77,186,352,7839,Iceland,3,0,0,0.8,0,0.8,Mediano
+S. Ezatolahi,MID,right,19961001,364,78,190,364,10840,Iran,1,0,0,0.8,0,0.8,Mediano
+A. Harit,MID,right,19970618,250,67,179,504,16216,Morocco,3,0,0,0.8,0,0.8,Mediano
+K. Omeruo,DEF,right,19931017,566,74,185,566,16823,Nigeria,0,0,0,0.8,0,0.8,Mediano
+Mohammed Kanno,MID,right,19940922,682,73,192,682,16521,Saudi Arabia,1,0,0,0.8,0,0.8,Mediano
+Manuel Fernandes,MID,right,19860205,620,75,176,132,9905,Portugal,2,0,0,0.8,0,0.8,Mediano
+Omar Hawsawi,DEF,right,19850927,682,76,185,682,16521,Saudi Arabia,0,0,0,0.8,0,0.8,Mediano
+B. Oviedo,DEF,left,19900218,188,65,172,188,16871,Costa Rica,2,0,0,0.8,0,0.8,Mediano
+E. Salvio,MID,right,19900713,32,77,173,32,12274,Argentina,1,0,0,0.8,0,0.8,Mediano
+S. Ben Youssef,DEF,right,19890331,250,82,186,788,16276,Tunisia,0,0,0,0.8,0,0.8,Mediano
+A. Jędrzejczyk,DEF,right,19871104,616,78,189,616,13869,Poland,0,0,0,0.8,0,0.8,Mediano
+J. Böðvarsson,FWD,right,19920525,352,85,190,352,7839,Iceland,0,0,0,0.8,0,0.8,Mediano
+F. Fazio,DEF,right,19870317,32,85,195,380,12274,Argentina,0,0,0,0.8,0,0.8,Mediano
+R. Wallace,MID,left,19880617,188,75,182,840,16871,Costa Rica,0,0,0,0.8,0,0.8,Mediano
+A. Erokhin,MID,right,19891013,643,79,195,643,14358,Russia,2,0,0,0.8,0,0.8,Mediano
+G. Chaalali,MID,right,19940228,788,72,179,788,16276,Tunisia,1,0,0,0.8,0,0.8,Mediano
+J. Durmaz,MID,left,19890322,752,69,180,792,7047,Sweden,0,0,0,0.8,0,0.8,Mediano
+Ali Al Bulayhi,DEF,left,19891121,682,83,182,682,16521,Saudi Arabia,0,0,0,0.8,0,0.8,Mediano
+A. Živković,MID,left,19960711,688,70,169,688,17322,Serbia,1,0,0,0.8,0,0.8,Mediano
+G. dos Santos,FWD,left,19890511,484,74,175,724,15473,Mexico,0,0,0,0.8,0,0.8,Mediano
+C. N'Doye,MID,right,19860329,686,90,192,686,19314,Senegal,1,0,0,0.8,0,0.8,Mediano
+J. Błaszczykowski,MID,right,19851214,616,77,176,616,13869,Poland,0,0,0,0.8,0,0.8,Mediano
+B. Ivanović,DEF,right,19840222,688,91,185,688,17322,Serbia,0,0,0,0.8,0,0.8,Mediano
+I. Smolnikov,DEF,right,19880808,643,70,178,643,14358,Russia,0,0,0,0.8,0,0.8,Mediano
+D. Sidibé,DEF,right,19920729,250,71,182,686,4418,France,0,0,0,0.8,0,0.8,Mediano
+Ricardo Pereira,DEF,right,19931006,620,70,175,132,9905,Portugal,0,0,0,0.8,0,0.8,Mediano
+F. Calvo,DEF,left,19920708,188,77,180,188,16871,Costa Rica,1,0,0,0.8,0,0.8,Mediano
+M. Olsson,DEF,left,19880517,752,81,178,752,7047,Sweden,0,0,0,0.8,0,0.8,Mediano
+Shin-Wook Kim,FWD,right,19880414,410,97,197,410,14855,Korea Republic,0,0,0,0.8,0,0.8,Mediano
+J. Urretavizcaya,MID,right,19900319,858,69,174,724,15670,Uruguay,0,0,0,0.8,0,0.8,Mediano
+R. Tapia,MID,right,19950728,604,78,182,604,15594,Peru,1,0,0,0.8,0,0.8,Mediano
+B. Mendy,DEF,left,19940717,250,85,185,686,4418,France,0,0,0,0.8,0,0.8,Mediano
+T. Jedvaj,DEF,right,19951128,191,81,184,191,9598,Croatia,0,0,0,0.8,0,0.8,Mediano
+M. Trauco,DEF,left,19920825,604,67,175,604,15594,Peru,0,0,0,0.8,0,0.8,Mediano
+D. Rose,DEF,left,19900702,0,76,174,388,2413,England,1,0,0,0.8,0,0.8,Mediano
+R. Rodríguez,DEF,left,19920825,756,77,180,152,6697,Switzerland,5,0,0,0.8,0,0.8,Mediano
+S. Larsson,MID,right,19850606,752,70,178,752,7047,Sweden,1,0,0,0.8,0,0.8,Mediano
+C. Gamboa,DEF,right,19891024,188,67,175,188,16871,Costa Rica,3,0,0,0.8,0,0.8,Mediano
+Y. Belhanda,MID,right,19900225,250,74,175,504,16216,Morocco,6,0,0,0.8,0,0.8,Mediano
+A. Gunnarsson,MID,right,19890422,352,70,177,352,7839,Iceland,2,0,0,0.8,0,0.8,Mediano
+S. Okazaki,FWD,right,19860416,392,70,174,392,12913,Japan,1,0,0,0.8,0,0.8,Mediano
+T. Müller,FWD,right,19890913,276,75,186,276,3148,Germany,3,0,0,0.8,0,0.8,Mediano
+E. Hajsafi,DEF,left,19900225,364,74,176,364,10840,Iran,1,0,0,0.8,0,0.8,Mediano
+M. Berg,FWD,right,19860817,752,85,184,752,7047,Sweden,15,0,0,0.78,0,0.78,Mediano
+J. Pivarić,DEF,left,19890130,191,69,176,191,9598,Croatia,1,0,0,0.775,0,0.775,Mediano
+V. Lindelöf,DEF,right,19940717,752,81,187,752,7047,Sweden,0,0,0,0.775,0,0.775,Mediano
+O. Dembélé,FWD,both,19970515,250,67,178,478,4418,France,3,0,0,0.766666667,0,0.766666667,Mediano
+R. Sigurðsson,DEF,right,19860619,352,77,187,352,7839,Iceland,0,0,0,0.766666667,0,0.766666667,Mediano
+B. Bjarnason,MID,right,19880527,352,75,178,352,7839,Iceland,7,0,0,0.766666667,0,0.766666667,Mediano
+M. da Costa,DEF,right,19860506,250,82,191,504,16216,Morocco,2,0,0,0.766666667,0,0.766666667,Mediano
+Cédric Soares,DEF,right,19910831,276,67,172,620,9905,Portugal,0,0,0,0.766666667,0,0.766666667,Mediano
+N. Amrabat,FWD,right,19870331,528,77,178,504,16216,Morocco,1,0,0,0.766666667,0,0.766666667,Mediano
+I. Strinić,DEF,left,19870717,191,78,186,191,9598,Croatia,0,0,0,0.766666667,0,0.766666667,Mediano
+M. Gavranović,FWD,right,19891124,756,73,175,191,6697,Switzerland,3,0,0,0.75,0,0.75,Mediano
+Marcelo,DEF,left,19880512,76,80,174,724,6380,Brazil,4,0,0,0.75,0,0.75,Mediano
+Ł. Piszczek,DEF,right,19850603,616,79,184,616,13869,Poland,1,0,0,0.75,0,0.75,Mediano
+Lee Seung-Woo,FWD,right,19980106,410,63,173,410,14855,Korea Republic,1,0,0,0.75,0,0.75,Mediano
+Maxi Gómez,FWD,right,19960814,858,87,186,858,15670,Uruguay,0,0,0,0.75,0,0.75,Mediano
+B. Pérez,FWD,right,19810313,591,85,187,591,17929,Panama,1,0,0,0.75,0,0.75,Mediano
+J. Venegas,MID,right,19881127,188,77,183,188,16871,Costa Rica,0,0,0,0.75,0,0.75,Mediano
+Seon-Min Moon,MID,right,19920609,410,68,172,410,14855,Korea Republic,2,0,0,0.75,0,0.75,Mediano
+M. Murillo,DEF,right,19960211,591,75,183,591,17929,Panama,1,0,0,0.75,0,0.75,Mediano
+D. Colindres,FWD,right,19850110,188,76,180,188,16871,Costa Rica,3,0,0,0.75,0,0.75,Mediano
+J. Corona,FWD,right,19930106,484,62,173,484,15473,Mexico,0,0,0,0.75,0,0.75,Mediano
+M. Cáceres,DEF,right,19870407,858,78,180,858,15670,Uruguay,6,0,0,0.74,0,0.74,Mediano
+V. Amiri,MID,left,19880402,364,75,179,364,10840,Iran,2,0,0,0.733333333,0,0.733333333,Mediano
+T. Werner,FWD,right,19960306,276,75,180,276,3148,Germany,7,0,0,0.733333333,0,0.733333333,Mediano
+Hwang Hee-Chan,FWD,right,19960126,410,70,177,410,14855,Korea Republic,2,0,0,0.733333333,0,0.733333333,Mediano
+Y. Sabaly,DEF,right,19930305,250,67,173,686,19314,Senegal,2,0,0,0.733333333,0,0.733333333,Mediano
+K. Iheanacho,FWD,left,19960310,566,77,187,566,16823,Nigeria,3,0,0,0.733333333,0,0.733333333,Mediano
+S. Lichtsteiner,DEF,right,19840116,756,75,182,756,6697,Switzerland,2,0,0,0.733333333,0,0.733333333,Mediano
+D. Laxalt,MID,left,19930207,858,66,178,380,15670,Uruguay,1,0,0,0.725,0,0.725,Mediano
+R. Zobnin,MID,right,19940211,643,72,182,643,14358,Russia,7,0,0,0.72,0,0.72,Mediano
+C. Rodríguez,MID,left,19850930,858,84,177,380,15670,Uruguay,4,0,0,0.72,0,0.72,Mediano
+M. Gómez,FWD,right,19850710,276,88,189,724,3148,Germany,4,0,0,0.7,0,0.7,Mediano
+P. Sisto,MID,right,19950204,728,64,171,208,7712,Denmark,2,0,0,0.7,0,0.7,Mediano
+M. Lustig,DEF,right,19861213,752,77,189,752,7047,Sweden,1,0,0,0.7,0,0.7,Mediano
+D. Kownacki,FWD,right,19970314,616,75,187,616,13869,Poland,2,0,0,0.7,0,0.7,Mediano
+M. Ureña,FWD,right,19900305,188,70,179,188,16871,Costa Rica,2,0,0,0.7,0,0.7,Mediano
+L. Ovalle,DEF,left,19880907,591,72,178,591,17929,Panama,0,0,0,0.7,0,0.7,Mediano
+H. Cummings,DEF,right,19920301,591,84,180,591,17929,Panama,0,0,0,0.7,0,0.7,Mediano
+A. Machado,DEF,right,19850214,591,71,182,591,17929,Panama,0,0,0,0.7,0,0.7,Mediano
+P. Dybala,FWD,left,19931115,32,69,177,616,12274,Argentina,1,0,0,0.7,0,0.7,Mediano
+K. Dolberg,FWD,right,19971006,208,82,187,208,7712,Denmark,0,0,0,0.7,0,0.7,Mediano
+Chul Hong,DEF,left,19900917,410,67,176,410,14855,Korea Republic,0,0,0,0.7,0,0.7,Mediano
+A. Aguilar,MID,right,19850106,170,82,186,170,12430,Colombia,0,0,0,0.7,0,0.7,Mediano
+J. Knudsen,DEF,left,19920916,208,72,185,208,7712,Denmark,0,0,0,0.7,0,0.7,Mediano
+Bruno Fernandes,MID,right,19940908,620,69,179,620,9905,Portugal,3,0,0,0.7,0,0.7,Mediano
+B. N'Diaye,MID,right,19901027,686,76,180,686,19314,Senegal,1,0,0,0.7,0,0.7,Mediano
+Al. Miranchuk,MID,left,19951017,643,74,182,643,14358,Russia,0,0,0,0.7,0,0.7,Mediano
+Min-Woo Kim,MID,left,19900225,410,66,174,410,14855,Korea Republic,1,0,0,0.7,0,0.7,Mediano
+C. Bolaños,MID,right,19840517,188,70,175,188,16871,Costa Rica,0,0,0,0.7,0,0.7,Mediano
+J. Mojica,DEF,left,19920821,170,66,179,170,12430,Colombia,1,0,0,0.7,0,0.7,Mediano
+Y. Zhirkov,MID,left,19830820,643,75,180,643,14358,Russia,2,0,0,0.7,0,0.7,Mediano
+Yong Lee,DEF,right,19861224,410,76,180,410,14855,Korea Republic,1,0,0,0.7,0,0.7,Mediano
+C. Pavón,FWD,right,19960121,32,65,167,32,12274,Argentina,1,0,0,0.675,0,0.675,Mediano
+N. Sliti,MID,right,19920727,250,75,173,788,16276,Tunisia,6,0,0,0.666666667,0,0.666666667,Mediano
+Amr Warda,MID,right,19930917,818,70,176,818,16129,Egypt,2,0,0,0.666666667,0,0.666666667,Mediano
+M. Pjaca,FWD,right,19950506,191,81,186,191,9598,Croatia,1,0,0,0.666666667,0,0.666666667,Mediano
+A. Jahanbakhsh,FWD,right,19930811,364,78,180,364,10840,Iran,1,0,0,0.666666667,0,0.666666667,Mediano
+Fahad Al Muwallad,FWD,right,19940914,682,65,168,682,16521,Saudi Arabia,1,0,0,0.666666667,0,0.666666667,Mediano
+R. Rezaeian,DEF,right,19900321,364,79,185,364,10840,Iran,0,0,0,0.666666667,0,0.666666667,Mediano
+Adrien Silva,MID,right,19890315,250,69,175,620,9905,Portugal,2,0,0,0.65,0,0.65,Mediano
+R. Jiménez,FWD,right,19910505,484,81,187,484,15473,Mexico,1,0,0,0.65,0,0.65,Mediano
+O. Hiljemark,MID,right,19920628,752,73,184,752,7047,Sweden,0,0,0,0.65,0,0.65,Mediano
+N. Radonjić,MID,right,19960215,688,76,185,688,17322,Serbia,0,0,0,0.65,0,0.65,Mediano
+A. Cornelius,FWD,left,19930316,208,79,193,208,7712,Denmark,0,0,0,0.65,0,0.65,Mediano
+S. Azmoun,FWD,right,19950101,364,79,186,364,10840,Iran,2,0,0,0.633333333,0,0.633333333,Mediano
+Marwan Mohsen,FWD,right,19890226,818,80,184,818,16129,Egypt,4,0,0,0.6,0,0.6,Mediano
+T. Usami,FWD,right,19920506,392,77,180,392,12913,Japan,3,0,0,0.6,0,0.6,Mediano
+H. Seferović,FWD,left,19920222,756,85,185,70,6697,Switzerland,1,0,0,0.6,0,0.6,Mediano
+M. Carcela-González,MID,left,19890701,56,67,176,504,16216,Morocco,0,0,0,0.6,0,0.6,Mediano
+Y. Tejeda,MID,right,19920317,188,66,177,188,16871,Costa Rica,0,0,0,0.6,0,0.6,Mediano
+Y. Benalouane,DEF,right,19870328,250,79,185,788,16276,Tunisia,0,0,0,0.6,0,0.6,Mediano
+A. Milik,FWD,left,19940228,616,78,186,616,13869,Poland,1,0,0,0.6,0,0.6,Mediano
+M. Acuña,MID,left,19911028,32,69,172,32,12274,Argentina,1,0,0,0.6,0,0.6,Mediano
+M. Shojaei,MID,right,19840609,364,73,184,364,10840,Iran,0,0,0,0.6,0,0.6,Mediano
+M. Lang,DEF,right,19910208,756,79,185,756,6697,Switzerland,1,0,0,0.6,0,0.6,Mediano
+F. Kostić,MID,left,19921101,688,82,184,688,17322,Serbia,2,0,0,0.566666667,0,0.566666667,Mediano
+N. Jørgensen,FWD,right,19910115,208,84,190,208,7712,Denmark,3,0,0,0.55,0,0.55,Mediano
+C. Stuani,FWD,right,19861012,858,72,184,380,15670,Uruguay,0,0,0,0.55,0,0.55,Mediano
+M. Mohammadi,DEF,left,19930929,364,79,178,364,10840,Iran,0,0,0,0.5,0,0.5,Mediano
+A. Arroyo,FWD,right,19931213,591,80,187,591,17929,Panama,0,0,0,0.5,0,0.5,Mediano
+Muhannad Asiri,FWD,right,19861014,682,79,185,682,16521,Saudi Arabia,1,0,0,0.5,0,0.5,Mediano
+M. Konaté,FWD,right,19930403,686,78,181,686,19314,Senegal,1,0,0,0.5,0,0.5,Mediano
+D. Welbeck,FWD,right,19901126,0,73,185,288,2413,England,1,0,0,0.5,0,0.5,Mediano
+R. Azofeifa,MID,right,19841230,188,82,183,188,16871,Costa Rica,0,0,0,0.5,0,0.5,Mediano
+H. Magnússon,DEF,left,19930211,352,77,190,352,7839,Iceland,2,0,0,0.5,0,0.5,Mediano
+J. Guidetti,FWD,right,19920415,752,79,185,752,7047,Sweden,1,0,0,0.4,0,0.4,Mediano
+Joo-Ho Park,DEF,left,19870116,410,73,176,410,14855,Korea Republic,0,0,0,0.4,0,0.4,Mediano
+V. Granat,DEF,left,19870522,643,80,184,643,14358,Russia,0,0,0,0.3,0,0.3,Mediano
+D. Sakho,FWD,right,19891224,686,79,184,250,19314,Senegal,0,0,0,0.3,0,0.3,Mediano
+A. Gudmundsson,FWD,right,19970615,352,66,177,352,7839,Iceland,0,0,0,0,0,0,Mediano
+A. Traustason,MID,right,19930430,352,71,182,352,7839,Iceland,1,0,0,0,0,0,Mediano
